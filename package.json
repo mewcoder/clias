@@ -1,0 +1,15 @@
+{
+  "name": "clias",
+  "version": "0.0.1",
+  "description": "快捷命令行工具",
+  "bin": {
+    "as": "./bin/as.js"
+  },
+  "keywords": [
+    "command",
+    "alias",
+    "scripts"
+  ],
+  "author": "mewcoder",
+  "license": "MIT"
+}
